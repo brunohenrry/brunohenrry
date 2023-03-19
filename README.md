@@ -1,6 +1,5 @@
 # 💫 About Me:
-🤖 I'm an a.i developer from Brazil
-
+🤖 I'm an a.i developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brunohdiaz) 
