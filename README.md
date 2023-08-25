@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
