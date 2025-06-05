@@ -38,8 +38,8 @@
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
 </div>
 
+<br/><br/>
 
-<img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/e3e02536fd8e39e82b14e68fa953bac0dbed8a59/dancing-gopher.gif" width="150"/>
-
-
-###
+<p align="center">
+  <img src="https://gist.githubusercontent.com/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/e3e02536fd8e39e82b14e68fa953bac0dbed8a59/dancing-gopher.gif" width="150" />
+</p>
