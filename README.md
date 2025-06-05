@@ -36,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="golang logo" />
 </div>
 
 <br/><br/>
